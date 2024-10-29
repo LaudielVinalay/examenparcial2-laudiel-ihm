@@ -61,7 +61,6 @@ const HomeScreen = () => (
   </ScrollView>
 );
 
-
 export default function App() {
   return (
     <NavigationContainer>
